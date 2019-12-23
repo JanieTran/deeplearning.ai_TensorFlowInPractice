@@ -4,8 +4,8 @@ Run on TensorFlow 2.0.0
 
 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning --- ***DONE***
 - Convolutional Neural Networks in TensorFlow --- ***DONE***
-- Natural Language Processing in TensorFlow --- ***In Progress***
-- Sequences, Time Series and Prediction
+- Natural Language Processing in TensorFlow --- ***DONE***
+- Sequences, Time Series and Prediction --- ***In Progress***
 
 ## Takeaway Notes
 
