@@ -1,6 +1,6 @@
 .DS_Store
-.log
-.h5
+*.log
+*.h5
 .ipynb_checkpoints
 .vscode
 tmp/
